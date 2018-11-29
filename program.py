@@ -2,4 +2,5 @@
 #2018
 print('my first git program!!!')
 print('hello python')
+print('chto ne tak')
 
